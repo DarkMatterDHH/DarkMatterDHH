@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Danny
-<h3>When I code, I rely on / i am curently learning how to use</h3>
+<h3>Here on Github i will show some of the exersices i have been through "(in my jurney through the MultiMedeaDesigner Education)"/ some side projects that i have coded</h3>
+<p> here are the things i have coded in or that i am learning that is on the Github </p>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white" />
